@@ -1,3 +1,3 @@
-# gitskills
+# hanlp-learn
 
-远程链接测试
+pyhanlp库学习使用
